@@ -7,6 +7,18 @@ This document will hold notes from previous meetings, with TODOs / action items.
 - Can use this to take a team and predict their likelihood to win the NBA
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+# September 14, 2021
+Present: Harry, Kyle, Jyothi, Krystal
+
+Additional Datasource (SQLite database that Jyothi found)
+- Bring this in as structured data
+- Join to RAPTOR scores and injury stuff
+- Can use to build public tableau
+
+Week One deliverables
+- Triangle 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## September 11, 2021
 Present: Harry, Kyle, Jyothi, Krystal
