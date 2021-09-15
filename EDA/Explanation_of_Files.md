@@ -7,6 +7,7 @@ This file is here to pull data only if we need to fill in missing data
 ### Webscrapping
 *webscraping_salaries.ipynb*
 This file is to scrape salaries off of espn.com. 
-The next button not working yet
+The next button now working
+Next implementation can be clicking the years
 
 
