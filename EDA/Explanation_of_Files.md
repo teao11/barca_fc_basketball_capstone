@@ -9,5 +9,9 @@ This file is here to pull data only if we need to fill in missing data
 This file is to scrape salaries off of espn.com. 
 The next button now working
 Next implementation can be clicking the years
+Full Automation was implemented. Will scale with more information for future use
 
 
+### Salaries_cleaning
+*Salaries_cleaning.ipynb*
+This file will import the three csv files then clean and merge them and upload to the postgres DB
