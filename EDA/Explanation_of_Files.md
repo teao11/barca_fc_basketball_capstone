@@ -12,3 +12,6 @@ Next implementation can be clicking the years
 Full Automation was implemented. Will scale with more information for future use
 
 
+### Salaries_cleaning
+*Salaries_cleaning.ipynb*
+This file will import the three csv files then clean and merge them and upload to the postgres DB
