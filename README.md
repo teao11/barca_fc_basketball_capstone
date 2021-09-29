@@ -93,3 +93,11 @@ Below are the questions we hope to answer with the data:
 1. What makes a NBA team successful? 
 2. What are the key factors to create a NBA championship team? 
 3. Can we predict who is going to win this upcoming season? 
+
+## Presentations
+Presentation Slides:
+https://docs.google.com/presentation/d/1sLljaNjBaziVoXdrJZPzjgaGPekuNLCMFgaZKI03sLc/edit#slide=id.p
+
+
+Dashboard Slides: 
+https://docs.google.com/presentation/d/1S-JOw4kaB802z592JrC_fm34AwflhuWfwSnhh6CypBQ/edit#slide=id.gefc0770f16_0_30
