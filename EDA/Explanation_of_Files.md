@@ -22,7 +22,8 @@ Full Automation was implemented. Will scale with more information for future use
 ### Salaries_cleaning
 *Salaries_cleaning.ipynb*  
 
-This file will import the three csv files then clean and merge them and upload to the postgres DB
+This file will import the three csv files then clean and merge them and upload to the postgres DB  
+
 *SalaryRatings.ipynb*  
 
 This file will take the salaries data and the stats data and combine them into a dataframe. It will then join the raptor data
