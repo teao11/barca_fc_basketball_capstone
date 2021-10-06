@@ -96,7 +96,10 @@ Below are the questions we hope to answer with the data:
 
 ## Presentations
 Presentation Slides:
+version 1:
 https://docs.google.com/presentation/d/1sLljaNjBaziVoXdrJZPzjgaGPekuNLCMFgaZKI03sLc/edit#slide=id.p
+version final:
+https://docs.google.com/presentation/d/1_aBrX5hRLKyGkbuhyHiQy17jugFiyBu4o-Xa3ZeolZw/edit#slide=id.gf5cf6e2850_1_0
 
 
 Dashboard Slides: 
