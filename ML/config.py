@@ -1,1 +1,1 @@
-sql_password='NBATeam1
+sql_password='NBATeam1'
