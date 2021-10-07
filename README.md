@@ -107,3 +107,6 @@ https://docs.google.com/presentation/d/1S-JOw4kaB802z592JrC_fm34AwflhuWfwSnhh6Cy
 
 3. Final Presentation: 
 https://docs.google.com/presentation/d/1_aBrX5hRLKyGkbuhyHiQy17jugFiyBu4o-Xa3ZeolZw/edit#slide=id.gf5cf6e2850_3_2
+
+4. Tableau Public :
+https://public.tableau.com/app/profile/jo.ranjit/viz/NBAStoryboard-StatsandSalariesVsRaptorScore/NBAStoryboard?publish=yes
