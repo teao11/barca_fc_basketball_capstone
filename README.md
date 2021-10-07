@@ -94,10 +94,16 @@ Below are the questions we hope to answer with the data:
 2. What are the key factors to create a NBA championship team? 
 3. Can we predict who is going to win this upcoming season? 
 
-## Presentations
-Presentation Slides:
+## Presentation Slides
+1. Presentation Slides:
+version 1:
 https://docs.google.com/presentation/d/1sLljaNjBaziVoXdrJZPzjgaGPekuNLCMFgaZKI03sLc/edit#slide=id.p
+version final:
+https://docs.google.com/presentation/d/1_aBrX5hRLKyGkbuhyHiQy17jugFiyBu4o-Xa3ZeolZw/edit#slide=id.gf5cf6e2850_1_0
 
 
-Dashboard Slides: 
+2. Dashboard Slides: 
 https://docs.google.com/presentation/d/1S-JOw4kaB802z592JrC_fm34AwflhuWfwSnhh6CypBQ/edit#slide=id.gefc0770f16_0_30
+
+3. Final Presentation: 
+https://docs.google.com/presentation/d/1_aBrX5hRLKyGkbuhyHiQy17jugFiyBu4o-Xa3ZeolZw/edit#slide=id.gf5cf6e2850_3_2
